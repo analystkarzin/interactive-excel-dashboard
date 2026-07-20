@@ -2,28 +2,30 @@
 
 This project showcases an interactive dashboard created in Microsoft Excel as part of my learning journey through YouTube tutorials and hands-on practice.
 
-### Project Overview
-The dashboard is designed to present data in a visually appealing and user-friendly way, allowing users to interact with the data and gain quick insights.
+## Business Objective
+Analyze sales performance and identify trends affecting revenue.
 
-### Key Features
-- Interactive charts and visuals
-- Use of slicers and filters for dynamic analysis
-- Clean layout with consistent color themes
-- Focus on clarity, readability, and storytelling through data
+## Tools
+- Excel
+- Power Query
+- Pivot Tables
+- Charts
+- Slicers
 
-### What I Learned
-- Designing dashboards for better decision-making
-- Creating dynamic visuals using Excel charts
-- Using slicers, filters, and formatting effectively
-- Improving user experience through layout and design choices
+## Key Insights
+- Region X generated highest revenue
+- Product category Y showed declining performance
+- Monthly trends indicate seasonal demand
 
-### Tools Used
-- Microsoft Excel
-- YouTube (learning and reference tutorials)
+## Dashboard Preview
+<img width="1885" height="906" alt="image" src="https://github.com/user-attachments/assets/59504c47-43c3-45ca-9edb-ae26b64f84d2" /><img width="1867" height="726" alt="image" src="https://github.com/user-attachments/assets/2a2911ab-f9c6-470d-b3bd-79cf43bf6205" /><img width="1843" height="1063" alt="image" src="https://github.com/user-attachments/assets/6dc3a027-2c06-4a9d-aa80-690f4335a60a" />
 
-### Purpose
+
+
+
+
+
 This project is part of my practice and skill development in data visualization and dashboard design, aligned with my interest in Business Analytics.
 
----
 
-📌 *Note: Screenshots of the dashboard can be added to help viewers quickly understand the visual output.*
+
